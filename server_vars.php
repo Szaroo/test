@@ -26,7 +26,7 @@
         echo "REQUEST_METHOD: " . $_SERVER['REQUEST_METHOD'] . "<br />";
         echo "REQUEST_TIME: " . $_SERVER['REQUEST_TIME'] . "<br />";
         echo "HTTP_REFERER: " . $_SERVER['HTTP_REFERER'] . "<br />";
-        echo "HTTP_USER_AGENT: " . $_SERVER['HTTP_USER_AGENT'] . "<br />";
+        echo "HTTP_USER_AGENT OK: " . $_SERVER['HTTP_USER_AGENT'] . "<br />";
     ?>
   </body>
 </html>
